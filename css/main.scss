@@ -102,3 +102,14 @@ section.features-section {
     background: #20272E;
     color: white;
 }
+
+ul.features-list {
+    margin: 0;
+    padding-left: .1em;
+
+    li {
+        font-size: 1.1em;
+        margin-bottom: 1em;
+        margin-left: 2em;
+    }
+}

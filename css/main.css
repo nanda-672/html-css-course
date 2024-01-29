@@ -88,4 +88,14 @@ section {
 section.features-section {
   background: #20272E;
   color: white;
+}
+
+ul.features-list {
+  margin: 0;
+  padding-left: 0.1em;
+}
+ul.features-list li {
+  font-size: 1.1em;
+  margin-bottom: 1em;
+  margin-left: 2em;
 }/*# sourceMappingURL=main.css.map */
